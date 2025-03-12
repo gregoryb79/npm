@@ -1,6 +1,7 @@
 "use strict";
 const greet = "Gregory";
 console.log(`Hello ${greet}`);
-let num = 5;
-num = num + 5;
-console.log(`num is: ${num - 3}`);
+const num = [];
+num[0] = 5;
+num[13] = 6;
+console.log(`num is: ${num}`);
